@@ -10,6 +10,3 @@ def display_board
   puts "-----------"
   puts " #{board[6]} | #{board[7]} | #{board[8]} "
 end
-
-
-display_board("board")
