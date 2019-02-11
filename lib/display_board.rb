@@ -12,4 +12,4 @@ def display_board
 end
 
 
-display_board(board)
+display_board("board")
